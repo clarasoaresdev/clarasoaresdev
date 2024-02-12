@@ -1,4 +1,4 @@
-<h2 align="left">Hello!! I'm Clara, welcome to my profile. =) </h2> 
+<h2 align="left">Hello!! I'm Clara, welcome to my profile. ❤️ </h2> 
 <div align="left">
 <body>
 <h3 style="float:right;">👩🏻‍🎓 About me:</h3>
