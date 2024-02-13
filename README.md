@@ -9,12 +9,14 @@
   <li>You can contact me through my <a href="https://www.linkedin.com/in/clara-soares-4315a1273/">LinkedIn</a> 
   or through my <a href = "mailto: claraahsb@gmail.com">e-mail</a>.</li>
 </ul>
+
 </body>
-  
+
+<hr style="width:50%", size="3", color=black>  
   <div align="center">
-  <a href="https://github.com/deboraheinig">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=clarasoaresdev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarasoaresdev&layout=compact&langs_count=7&theme=synthwave"/>
+  <a href="https://github.com/clarasoaresdev">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=clarasoaresdev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarasoaresdev&layout=compact&langs_count=7&theme=jolly"/>
        <h2 align="center"> </h2>  
 </div>
 
