@@ -7,7 +7,7 @@
   <li>I'm studying Systems Analysis and Development bt IFPB</li>
   <li>I'm currently learning Front-end</li>
   <li>You can contact me through my <a href="https://www.linkedin.com/in/clara-soares-4315a1273/">LinkedIn</a> 
-  or through my <a href = "mailto: claraahsb@gmail.com">e-mail</a>.</li>
+  or through my <a href = "mailto:clara.bezerra@academico.ifpb.edu.br">e-mail</a>.</li>
 </ul>
 
 </body>
