@@ -30,13 +30,3 @@
   <img align="center" alt="Clara-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Clara-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-
- <div align="left">
-   <h2 align="center"> </h2> 
-<h3 align="left"> 💬 Let's talk?</h3> 
- </div>
-
- <div align="left">
-  <a href="https://www.linkedin.com/in/clara-soares-4315a1273/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <hr style="width:50%", size="3", color=black>  
-  </div>
