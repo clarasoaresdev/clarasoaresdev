@@ -4,7 +4,7 @@
 <h3 style="float:right;">👩🏻‍🎓 About me:</h3>
 
 <ul>
-  <li>I'm studying Systems Analysis and Development bt IFPB</li>
+  <li>I'm studying Systems Analysis and Development by IFPB</li>
   <li>I'm currently learning Java</li>
   <li>You can contact me through my <a href="https://www.linkedin.com/in/clara-soares-4315a1273/">LinkedIn</a> 
   or through my <a href = "mailto:clara.bezerra@academico.ifpb.edu.br">e-mail</a>.</li>
@@ -15,8 +15,8 @@
 <hr style="width:50%", size="3", color=black>  
   <div align="center">
   <a href="https://github.com/clarasoaresdev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=clarasoaresdev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarasoaresdev&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=clarasoaresdev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarasoaresdev&layout=compact&langs_count=7&theme=midnight-purple"/>
        <h2 align="center"> </h2>  
 </div>
 
