@@ -1,10 +1,9 @@
 <h2 align="left">Hello!! Welcome to my profile.</h2> 
-<img src="https://tenor.com/view/yoriko-nikaidou-yoriko-nikaidou-youre-under-arrest-puter-gif-1422532878954631008.gif" align="right" alt="Yoriko com um computador"/>
+<img align="right" src="https://tenor.com/view/yoriko-nikaidou-yoriko-nikaidou-youre-under-arrest-puter-gif-1422532878954631008.gif" align="right" alt="Yoriko com um computador"/>
 <body>
   <div align="left">
     <h3 align="left">💻 Skills: </h3> 
     <a href="https://github.com/clarasoaresdev">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=clarasoaresdev&langs_count=5&layout=compact&hide_title=true&theme=gotham"/>
     <img src="https://skillicons.dev/icons?i=java,python,javascript,postgres,html,css" align="center" height="75" />
   </div>
   <br>
